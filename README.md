@@ -4,7 +4,7 @@
 
 > This is my first microverse project
 
-
+![screenshot](./app_screenshot.JPG)
 
 Additional description about the project and its features.
 
