@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 Knowledge on basic html and css
 
 ### Setup
-- clone repository
+- clone repository from github
 - run `live server`
 
 ## Authors
@@ -30,7 +30,7 @@ Knowledge on basic html and css
 
 - GitHub: [@githubhandle](https://github.com/Amedzro-Elikplim)
 - Twitter: [@twitterhandle](https://twitter.com/Amedzro-Elikplim)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-elikplim-amedzro-187590125/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amedzro-emmanuel-elikplim/)
 
 
 ## 🤝 Contributing
